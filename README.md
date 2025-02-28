@@ -1,6 +1,9 @@
 # company-os
 Notion Based Company Operating System.
 
+### Product Link
+https://erenelagoz.gumroad.com/l/company-os
+
 
 ## ScreenShots
 ![Screenshot 2025-02-26 112924](https://github.com/user-attachments/assets/3b3ba7f7-f681-4824-96c5-247003370b64)
